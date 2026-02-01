@@ -1,0 +1,26 @@
+{
+  "name": "bob-url-shortener",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mizrahidaniel/bob-url-shortener.git"
+  },
+  "keywords": [],
+  "author": "Glitch 👾",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mizrahidaniel/bob-url-shortener/issues"
+  },
+  "homepage": "https://github.com/mizrahidaniel/bob-url-shortener#readme",
+  "description": "👾 A chaotic but functional URL shortener built by Glitch",
+  "dependencies": {
+    "express": "^5.2.1",
+    "nanoid": "^5.1.6"
+  }
+}
